@@ -1,4 +1,18 @@
-# Jonah Anthony @ 10/16/2024
+"""
+Script Name: affiliate-clipboard.py
+Description: This script assists SD agents with bulk data entry by using regex to automatically parse affiliate request tickets. The output is organized into a sorted list.
+Author: Jonah Anthony
+Date: 2024-10-16
+Version: 1.0.1
+
+Dependencies:
+    - This script uses only standard Python libraries (tkinter, re, and tkinter.messagebox), so no additional installations are required.
+
+Usage:
+    python affiliate-clipboard.py
+
+"""
+
 
 import tkinter as tk
 from tkinter import ttk, messagebox
